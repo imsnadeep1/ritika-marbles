@@ -1,0 +1,1 @@
+export default { content:['./index.html','./src/**/*.{js,jsx}'], theme:{extend:{colors:{marble:'#f8f5f2',gold:'#d4af37'}}}, plugins:[] };
