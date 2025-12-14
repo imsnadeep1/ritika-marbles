@@ -1,0 +1,1 @@
+export default ()=> <footer>© Ritika Marbles</footer>
